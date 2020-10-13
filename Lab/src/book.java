@@ -28,13 +28,16 @@ public class book {
         name = book_name;
         author = book_author;
         price = book_price;
+        setQuantity();
     }
 
-    public book(String book_name, Author book_author, int book_qty)
+    public book(String book_name, Author book_author, double book_price, int book_qty)
     {
         name = book_name;
         author = book_author;
         quantity = book_qty;
+        price = book_price;
+        setPrice();
     }
 
     public String getName()
@@ -59,11 +62,13 @@ public class book {
 
     public void setQuantity()
     {
+        System.out.print("Quantity: ");
         quantity = input.nextInt();
     }
 
     public void setPrice()
     {
+        System.out.print("Price: ");
         price = input.nextDouble();
     }
 
