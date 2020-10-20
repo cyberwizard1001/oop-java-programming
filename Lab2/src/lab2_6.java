@@ -21,7 +21,7 @@ public class lab2_6 {
         Byte phase,assessed_units;
         Date date;
         System.out.printf("Enter your name: ");
-        name = name;
+
     }
 
     public static void main(String[] args)
