@@ -22,7 +22,7 @@ public class book_main {
         System.out.print("Enter gender in single character");
         char gender = input.next().charAt(0);
         System.out.print("Age: ");
-        int age = input.nextByte();
+        int age = input.nextInt();
         Author author = new Author(a_name,gender,age);
 
         System.out.println("\nBook 1");
