@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Lab/Lab.iml" filepath="$PROJECT_DIR$/Lab/Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nov3Lab/Nov3Lab.iml" filepath="$PROJECT_DIR$/Nov3Lab/Nov3Lab.iml" />
       <module fileurl="file://$PROJECT_DIR$/labeval/labeval.iml" filepath="$PROJECT_DIR$/labeval/labeval.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oop-java-programming.iml" filepath="$PROJECT_DIR$/.idea/oop-java-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/test_app/test_app.iml" filepath="$PROJECT_DIR$/test_app/test_app.iml" />
